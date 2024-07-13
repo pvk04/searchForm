@@ -7,8 +7,8 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>/backend
+    git clone https://github.com/pvk04/searchForm.git
+    cd searchForm/backend
     ```
 
 2. Установите зависимости:
